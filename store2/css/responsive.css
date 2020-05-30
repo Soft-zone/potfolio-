@@ -1,0 +1,73 @@
+@media screen and (max-width:0px) {
+.body {
+   width:100%;
+  }
+}
+
+
+@media screen and (max-width:0px) {
+ .header {
+    width:100%
+  }
+}
+@media screen and (max-width:0px) {
+.logo{
+    width=100%;
+  
+
+  }
+}
+@media screen and (max-width:0px) {
+.image11{
+    max-width:100px;
+	max-height:13%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 274px;
+	inline:block;
+	
+
+  }
+}
+@media screen and (max-width:0px) {
+.prodact-card{
+	width:100%
+ }
+}
+@media screen and (max-width:0px) {
+.prodact-image{
+	width:100%
+ }
+}
+@media screen and (max-width:0px) {
+.prodact-info{
+	width:100%;
+ }
+}
+@media screen and (max-width:0px) {
+.intoduce3{
+	width:100%
+ }
+}
+@media screen and (max-width:0px) {
+.footer{
+	width:100%
+ }
+}
+@media screen and (max-width:0px) {
+.text{
+	width:100%
+ }
+}
+@media screen and (max-width:0px) {
+div.gallery {
+	width:100%
+
+ }
+}
+@media screen and (max-width:0px) {
+.logo{
+	width:100%
+
+ }
+}

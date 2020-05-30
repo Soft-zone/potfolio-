@@ -1,0 +1,66 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+
+
+}
+.body{
+    max-width:1240px;
+	width:90%;
+	margin:0 auto;
+
+}
+.text11{
+	display:inline-block;
+	color:#2cff00;
+}
+
+
+.header{
+  padding: 10px;
+  margin:auto;
+  background-color:#CCCFB6;
+  color: white;
+  box-shadow:2px 2px 4px #000000;
+  text-shadow:2px 2px 4px #000000;
+  font-family:yousuf1722;
+  display:block;
+
+}
+.logo{
+
+	float:left;
+	display:fixed;
+}
+.w3-container{
+	width:100%;
+}
+
+.image11{
+	display:flex;
+	flex-wrap:wrap;
+
+}
+.prodact-card{
+	flex:1;
+	flex-basis:16%;
+	padding:2%;
+	box-shadow:2px 2px 4px #000000;
+    background-color:#f6f6f6;
+    box-shadow:2px 2px 4px #000000;
+	text-shadow:2px 2px 4px #14ff00;
+	text-align:center;
+	
+}
+.prodact-image{
+	
+}
+.prodact-info{
+  text-align:center;
+}
+.mySlides{
+	border-radius: 20px;
+}
+
+
